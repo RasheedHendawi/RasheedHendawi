@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1rasheed1&label=Profile%20views&color=0e75b6&style=flat" alt="1rasheed1" /> </p>
 
-- 📫 How to reach me **rasheed.hendawi@gmail.com**
+- 📫 How to reach me <a href="mailto:rasheed.hendawi@gmail.com">Email</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19oWYMxY7xf-6WejOjaL1lEVpbw8bPNdj/view?usp=sharing](https://drive.google.com/file/d/19oWYMxY7xf-6WejOjaL1lEVpbw8bPNdj/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/19oWYMxY7xf-6WejOjaL1lEVpbw8bPNdj/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rasheed hendawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasheed hendawi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Rasheed Hendawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rasheed Hendawi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/1rasheed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1rasheed1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/1rasheed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1rasheed1" height="30" width="40" /></a>
 <a href="https://discord.gg/rasheedhendawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rasheedhendawi" height="30" width="40" /></a>
