@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rasheed-hendawi-8377a2250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rasheed Hendawi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/RasheedHendawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="RasheedHendawi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/RasheedHendawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RasheedHendawi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/1RaShEeD1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="RasheedHendawi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/1rasheed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RasheedHendawi" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
